@@ -6,7 +6,7 @@ Understand how to use Flexbox and other CSS to create a common page layout.
 
 ## Learning
 
-In this lab, we will put what we have learned about the CSS flexbox layout to use. We will also continue to practice with responsive units of measurement and responsive design. This will also require the continued practice of styling with CSS and referencing another wire frame. 
+In this lab, we will put what we have learned about the CSS flexbox layout to use. We will also continue to practice with responsive units of measurement and responsive design. This will also require the continued practice of styling with CSS and referencing another wire frame.
 
 Topics:
 
@@ -35,7 +35,7 @@ Your work will result in:
 
 - [ ] Click the following link to open the wire frame: [Figma Wire Frame](https://www.figma.com/file/QqmQF04L6BbTsJCE88ePxn/article-preview?node-id=0%3A1).
 - [ ] **Note:** This wireframe is not "pixel perfect" so don't stress having it match dimensions exactly. We are looking to capture the spirit of the wireframe.
-- [ ] As described in [Hello HTML](https://online.uprighted.com/lessons/written/hello-html) and [Hello Styles](https://online.uprighted.com/lessons/written/hello-styles), this wireframe maps to semantic divs you need to create. See if you can understand the wireframe without referencing the explicit instructions in the previous labs. 
+- [ ] As described in [Hello HTML](https://github.com/BurlingtonCodeAcademy/unit-1-hello-html/blob/main/readme.md) and [Hello Styles](https://github.com/BurlingtonCodeAcademy/unit-1-hello-styles/blob/master/instructions.md), this wireframe maps to semantic divs you need to create. See if you can understand the wireframe without referencing the explicit instructions in the previous labs.
 
 ### Styling the divs
 
